@@ -1,0 +1,42 @@
+Life cycle of a Data Science Projects
+1. Data Collectio Statergy(Pending topic for me) ----- from company side, 3rd party api's, Surveys
+2. Features Engineering-------Handling Missing Values,
+
+
+Why are their Missing values?? Survey--Depression Survey------
+1. They hesitate to put down the information
+2. survey informations are not valid
+3. Men-----Salary
+4. Women----age
+5.People may have died ---NaN
+
+Data Science Projects ---- Dataset should be collected from multiple sources
+
+What are the different types of missing data?
+
+Missing completely at Random, MCAR
+A variable is missing completely at random (MCAR) if the probability of being missing is the same 
+for all the observations. When data is MCAR, there is absoluetly no relationship between the missing
+data and any other values, observed or missing, within the dataset. In other words, those missing
+data points are random subset of the data. There is nothing systemetic going on that makes some 
+data more likely to be missing than other.
+
+If values for observations are missing completely at random, then disregarding those cases would 
+not bias the inferences made.
+
+Data that will be missing------
+1) Continous data
+
+
+
+
+
+
+
+
+
+
+
+2) categorical data
+
+
